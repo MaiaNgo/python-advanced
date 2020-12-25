@@ -1,3 +1,3 @@
 # python-advanced
 
-Some of advanced or a bit deeper detailed concepts in Python.
+Bite-size notes about key concept in Python that I learn along the way.
